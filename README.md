@@ -150,4 +150,4 @@ Bracket expressions are the syntax theory on combining character classes. Multip
 
 ## Author
 
-To see more of my work, please visit my [GitHub]([https://github.com/mplumer](https://github.com/AlexRahmanov))
+To see more of my work, please visit my [GitHub](https://github.com/AlexRahmanov)
